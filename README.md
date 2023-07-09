@@ -8,12 +8,6 @@ The purpose of this project is to analyze the sales data of Vrinda Store to iden
 # Data
 The data used in this project is a fictional sales dataset of Vrinda Store. The dataset contains information about the sales of different products, customer demographics, and sales channels. The data is stored in the 'Data' worksheet of the Excel file and is organized in a tabular format for easy analysis.
 
-# Analysis
-The Excel file includes several worksheets with different types of analysis to help gain insights into the sales data. The analysis includes:
-Sales Analysis: This worksheet provides an overview of the sales data, including total revenue, sales by product category, sales by sales channel, and sales by customer demographics.
-Product Analysis: This worksheet analyzes the sales data by product category, providing insights into the most popular products and product categories.
-Customer Analysis: This worksheet analyzes the sales data by customer demographics, providing insights into customer behaviour and preferences.
-Channel Analysis: This worksheet analyzes the sales data by sales channel, providing insights into the performance of different sales channels. Each worksheet includes charts, graphs, and tables to present the analysis in a clear and concise manner. The analysis is designed to be easy to interpret and understand, even for non-technical users.
 
 # Sample Insights
 Women are more likely to buy compared to men (64%)
